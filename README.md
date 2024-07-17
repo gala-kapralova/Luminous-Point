@@ -2,6 +2,8 @@
     <img src="./Luminous Point_Cover Image.png" alt="Banner Image" style="width:80%; height:auto;">
     <h2>Project Description</h2>
     <p>Luminous Point is a clicker game developed using Unity, designed specifically for Windows. Step into the shoes of a lighthouse keeper, balancing reality and illusion as you manage the lighthouse light to guide ships safely through the night.&nbsp;</p>
+    <h2>Publishing</h2>
+    <p>https://gk-play.itch.io/luminous-point</p>
     <h2>Technical Aspects:</h2>
     <ul>
         <li><strong>Game Engine:</strong> Unity</li>
